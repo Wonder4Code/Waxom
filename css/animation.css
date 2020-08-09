@@ -1,0 +1,25 @@
+@keyframes wrp-anim {
+  0% {
+    top: -236px;
+  }
+  100% {
+    top: 0px;
+  }
+}
+@keyframes link-anim {
+  0% {
+    top: -30px;
+  }
+  100% {
+    top: 106px;
+  }
+}
+@keyframes angle-anim {
+  0% {
+    top: 220px;
+  }
+  100% {
+    top: 220px;
+    left: -100px;
+  }
+}
